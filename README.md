@@ -1,16 +1,23 @@
-### Hi there 👋
+![Header](Assets/Banner.png)
 
-<!--
-**ShaanCoding/ShaanCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shaan
 
-Here are some ideas to get you started:
+Hi, I'm Shaan - a first year Computer Science student studying at the University of Technology Sydney. I like experimenting with new technologies, building small projects and occasionally tinkering with electronics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Here's a list of things I currently keep myself busy with:
+* 🌱 Working as a freelance developer using **C#, Java & Python**
+* 💼 I'm currently learning **C++, Typescript & Data Structures & Algorithms**
+* 💻 Creating YouTube videos at [Shaan Khan](https://www.youtube.com/channel/UCWjh4p405vo_azo9IVrn4jA)
+
+## Tech Stack
+* 💻 C++ | C# | Java | TypeScript | Python | MatLab | Octave | R
+* 🛢️ mySQL | SQL Lite | MS SQL
+* ☁ AWS | GCP
+* 🎮 Unity
+
+[![Shaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaanCoding)](https://github.com/ShaanCoding)
+
+<p align=center>
+<b>Let's create something awesome together!</b> <br>
+<a href="https://shaancoding.com/">My Website</a> · <a href="https://www.linkedin.com/in/shaancoding">LinkedIn</a> · <a href="mailto:shaankhan101@gmail.com">Email</a> · <a href="https://www.youtube.com/channel/UCWjh4p405vo_azo9IVrn4jA">Youtube</a>
+</p>
