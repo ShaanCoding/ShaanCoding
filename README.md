@@ -1,4 +1,4 @@
-![Header](Assets/Banner.png)
+![Header](https://github.com/ShaanCoding/ShaanCoding/blob/master/Assets/Banner.png)
 
 # Hi, I'm Shaan
 
