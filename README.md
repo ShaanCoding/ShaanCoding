@@ -2,7 +2,7 @@
 
 # Hi, I'm Shaan
 
-Hi, I'm Shaan - a first year Computer Science student studying at the University of Technology Sydney. I like experimenting with new technologies, building small projects and occasionally tinkering with electronics.
+Hi, I'm Shaan - a first year Computer Science student studying at the University of New South Wales. I like experimenting with new technologies, building small projects and occasionally tinkering with electronics.
 
 ## Here's a list of things I currently keep myself busy with:
 
